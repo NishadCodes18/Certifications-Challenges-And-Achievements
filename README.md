@@ -6,12 +6,13 @@
 
 <hr>
 
-## 🎓 Institutional, Event & Course Certifications
+## 🎓 Institutional, Event, Internship & Course Certifications
 
-Here are my formal academic, campus event, and professional training certificates.
+Here are my formal academic, campus event, professional training, and internship certificates.
 
-| Certification / Course | Issuing Organization | Link |
+| Certification / Course / Experience | Issuing Organization | Link |
 |------------------------|----------------------|------|
+| **Summer Internship Completion** (June 1, 2026 - Aug 3, 2026) | Gradely Consulting Private Limited | [📄 View PDF](./35_TYCSEB_Nishad_Patil_Experience_Certificate.pdf) |
 | **Artificial Intelligence & Machine Learning** | Bhartiya Skill Development University, Jaipur | [📄 View PDF](./Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf) |
 | **Data Structures in C++ Course** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
 | **Python and SQL for Data Science** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
