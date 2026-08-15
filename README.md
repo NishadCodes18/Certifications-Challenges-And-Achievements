@@ -16,6 +16,8 @@ Here are my formal academic, campus event, and professional training certificate
 | **Data Structures in C++ Course** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
 | **Python and SQL for Data Science** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
 | **SQL for Beginners: MySQL and Database Design** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
+| **Operating Systems** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
+| **Java** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
 | **Technophilia 2026: Prompt War (Participant)** | MIT World Peace University (MIT-WPU) | [📄 View PDF](./Certificate%20Technophilia%20Participants%20Tech__76.pdf) |
 | **FOSSEE Open Source Hardware Hackathon 2026** | IIT Bombay | [📄 View PDF](./FOSSEE%20IIT%20BOMBAY%20HACKATHON%20CERTIFICATE.pdf) |
 
@@ -41,12 +43,28 @@ Here are my formal academic, campus event, and professional training certificate
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2"><b>SQL for Beginners: Learn SQL using MySQL and Database Design Course</b></td>
+      <td align="center"><b>SQL for Beginners: MySQL and Database Design</b></td>
+      <td align="center"><b>Operating Systems</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <kbd>
+          <img src="./sql%20for%20beginner.jpeg" alt="Scaler SQL for Beginners Certificate" width="450">
+        </kbd>
+      </td>
+      <td align="center">
+        <kbd>
+          <img src="./os_scaler.png" alt="Scaler Operating Systems Certificate" width="450">
+        </kbd>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2"><b>Java</b></td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         <kbd>
-          <img src="./sql%20for%20beginner.jpeg" alt="Scaler SQL for Beginners Certificate" width="450">
+          <img src="./JAVA_SCALER.png" alt="Scaler Java Certificate" width="450">
         </kbd>
       </td>
     </tr>
